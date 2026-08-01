@@ -1,0 +1,19 @@
+🔥 Hackflix v1.4 — Ab Live!
+
+Highlights:
+- Group-only Spell Check toggle
+- Group owners can manage settings via bot PM
+- Owner-only "Reset All Group Settings"
+- 3-step Verification system
+- Double DB support, Stream Mode toggle, AI Spelling Correction, Auto Movie Info updates, and more!
+
+Commands: /movie_update /pm_search /verification /top /settings /plan /stats /start
+
+Upgrade tip: Backup your database before switching modes. Group owners can now manage settings privately via the bot.
+
+Update now — Hackflix par enjoy karo! 🙏
+
+(English short)
+🔥 Hackflix v1.4 is live!
+New: Spell Check (group), owner PM settings, reset-all (owner only), 3-step verification, double DB, Stream Mode, advanced AI spelling correction and more.
+Backup your DB before upgrading.
